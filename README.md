@@ -14,4 +14,3 @@ this is a Simple Console Project for Gym's Admin To mangement the Gym
 
 4-> Delete all the above .
 
-that made by me and my friend mohamed sameh
